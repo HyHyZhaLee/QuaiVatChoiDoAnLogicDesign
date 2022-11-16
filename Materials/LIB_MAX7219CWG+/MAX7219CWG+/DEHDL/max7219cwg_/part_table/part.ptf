@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MAX7219CWG_'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Maxim Integrated", "MAX7219CWG+" (!) = "", "SOIC127P1032X265-24N", "Small Outline Packages", "700-MAX7219CWG", "https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX7219CWG%2b?qs=1THa7WoU59FAb2MozDF%2Fgw%3D%3D", "MAX7219CWG+", "https://www.arrow.com/en/products/max7219cwg/maxim-integrated?region=nac", "", "", "MAX7219CWG+, LED Driver, 8-Digits 64-Segments, 5V, 24-Pin SOIC W", "http://datasheets.maximintegrated.com/en/ds/MAX7219-MAX7221.pdf", "2.65 mm"
+END_PART
+
+END.

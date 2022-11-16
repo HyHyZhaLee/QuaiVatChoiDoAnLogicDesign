@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX7219CWG+
+D MAX7219CWG+, LED Driver, 8-Digits 64-Segments, 5V, 24-Pin SOIC W
+K
+F http://datasheets.maximintegrated.com/en/ds/MAX7219-MAX7221.pdf
+$ENDCMP
+#
+#End Doc Library
